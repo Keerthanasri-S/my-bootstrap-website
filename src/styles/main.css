@@ -581,6 +581,19 @@ section:nth-child(odd) {
     color: #2b6cb0;
 }
 
+/* ===== CAREERS SECTION ===== */
+#careers .lead {
+    margin-bottom: 3rem !important;
+    font-size: 1.2rem;
+    color: #4a5568;
+    line-height: 1.7;
+}
+
+#careers .btn {
+    margin-top: 1rem;
+    display: inline-block;
+}
+
 /* ===== CONTACT SECTION ===== */
 #contact h2 {
     font-size: 2.5rem;
